@@ -1,3 +1,4 @@
 # shopify-hydrogen-reed
+## Being Developed by Connor Reed
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/shopify-hydrogen-reed)
+### Wanting to start learning more about hydrogen to Freelance. Still in development and will be worked on for awhile.
